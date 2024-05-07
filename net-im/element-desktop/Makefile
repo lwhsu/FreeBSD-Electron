@@ -1,12 +1,12 @@
 PORTNAME=	element-desktop
 DISTVERSIONPREFIX=	v
-DISTVERSION=	1.11.65
+DISTVERSION=	1.11.66
 CATEGORIES=	net-im
 MASTER_SITES=	https://github.com/${GH_ACCOUNT}/element-web/releases/download/${DISTVERSIONFULL}/:element_web \
 		https://registry.npmjs.org/keytar/-/:keytar \
 		https://registry.npmjs.org/matrix-seshat/-/:matrix_seshat
 DISTFILES=	element-${DISTVERSIONFULL}${EXTRACT_SUFX}:element_web \
-		${PREFETCH_FILE}:prefetch \
+		${PREFETCH_FILE} \
 		keytar-${KEYTAR_VER}.tgz:keytar \
 		matrix-seshat-${MATRIX_SESHAT_VER}.tgz:matrix_seshat
 
