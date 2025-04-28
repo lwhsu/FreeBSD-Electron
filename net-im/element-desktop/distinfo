@@ -1,8 +1,8 @@
-TIMESTAMP = 1745824790
+TIMESTAMP = 1745825109
 SHA256 (element-v1.11.99.tar.gz) = f5380c966f0ec2be5ca5f8e0ea3f44b45517f07a8250cea9f24869e5ba63351d
 SIZE (element-v1.11.99.tar.gz) = 34246544
-SHA256 (element-desktop-1.11.99-node-modules.tar.gz) = aa38b4f2a7c3fb4bfdf68d1b54e0eb169b3757df19f47ddc3c6aecb8acc142a1
-SIZE (element-desktop-1.11.99-node-modules.tar.gz) = 292130881
+SHA256 (element-desktop-1.11.99-node-modules.tar.gz) = ace80572b10ed29dbd90dc157bfcd02f1857555f69c16aaff4877c877af05923
+SIZE (element-desktop-1.11.99-node-modules.tar.gz) = 290979824
 SHA256 (keytar-7.9.0.tgz) = 3b0faf5e59063f0cfc90d2ca3122568966cd9404fc5f761c7b2b2b2addea1973
 SIZE (keytar-7.9.0.tgz) = 9410
 SHA256 (matrix-seshat-4.0.1.tgz) = 9bfe48f6852bd56fb3791ec41454f9c3ece46e3be7b359064278cd68f42037c9
